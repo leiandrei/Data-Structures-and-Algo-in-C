@@ -1,4 +1,5 @@
 # Data Structures and Algorithm
+My personal repository for all Data Structures & Algorithms Course, implementation of all data structures in C Language.
 
 ## Implementations of all Data Structures from scratch in C.
 - Static and Dynamic Arrays
